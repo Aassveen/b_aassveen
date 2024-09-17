@@ -1,5 +1,5 @@
 ---
-title:  "Sensitivitets etiketter"
+title:  "Følsomhetsetiketter"
 classes: wide
 toc: false
 categories: 
@@ -14,8 +14,8 @@ tags:
 
 <img src="https://imgur.com/YyApvh4.png" width="200"/>
 
-### Sensitivitetsetiketter i Microsoft 365
-Sensitivitetsetiketter fra Microsoft Purview Information Protection gir deg muligheten til å klassifisere og beskytte organisasjonens data. Disse etikettene hjelper deg med å fortelle brukerne hvor sensitiv informasjonen er, og de gir deg verktøy for å sikre at dataene håndteres i samsvar med organisasjonens policyer. Microsoft 365 kommer med et sett med følsomhetsetiketter ut av boksen, du kan velge å bruke disse videre eller opprette egne etiketter med tilhørende innstillinger
+### Følsomhetsetiketter i Microsoft 365
+Følsomhetsetiketter fra Microsoft Purview Information Protection gir deg muligheten til å klassifisere og beskytte organisasjonens data. Etikettene hjelper deg med å fortelle brukerne hvor sensitiv informasjonen er, og de gir deg verktøy for å sikre at dataene håndteres i samsvar med organisasjonens policyer. Microsoft 365 kommer med et sett med følsomhetsetiketter ut av boksen, du kan velge å bruke disse videre eller opprette egne etiketter med tilhørende innstillinger
 
 
 
@@ -36,8 +36,8 @@ Sensitivitetsetiketter fra Microsoft Purview Information Protection gir deg muli
 
 
 
-**Fordeler ved å bruke sensitivitetsetiketter:**
-Klassifisering og beskyttelse: Sensitivitetsetiketter lar deg merke dokumenter og e-poster med ulike sensitivitetsnivåer, for eksempel “Personlig”, “Offentlig”, “Konfidensielt” og “Høyt konfidensielt”. Dette hjelper deg med å sikre at riktig beskyttelse blir brukt på riktig innhold.
+**Fordeler ved å bruke følsomhetsetiketter:**
+Klassifisering og beskyttelse: Følsomhetsetiketter lar deg merke dokumenter og e-poster med ulike sensitivitetsnivåer, for eksempel “Personlig”, “Offentlig”, “Konfidensielt” og “Høyt konfidensielt”. Dette hjelper deg med å sikre at riktig beskyttelse blir brukt på riktig innhold.
 
 **Tilpassede beskyttelsesinnstillinger:**
 For hver etikett kan du konfigurere beskyttelsesinnstillinger som vannmerker, kryptering og tilgangskontroll. For eksempel kan du bruke en “Konfidensiell” etikett for å legge til et vannmerke og kryptere innholdet.
@@ -53,3 +53,4 @@ Støtte på tvers av apper og plattformer: Sensitivitetsetiketter fungerer i Off
 * Skjematiserte dataressurser: SQL, Azure SQL, Azure Synapse, Azure Cosmos, AWS RDS mm.
 
 
+****Bjørnar & AI****
