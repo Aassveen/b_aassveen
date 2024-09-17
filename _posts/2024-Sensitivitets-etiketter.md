@@ -14,7 +14,7 @@ Sensitivitetsetiketter fra Microsoft Purview Information Protection gir deg muli
 
 
 
-<img src="https://imgur.com/jg7IVkN" width="250"/>
+<img src="https://imgur.com/jg7IVkN.png" width="250"/>
 
 **Etikettene publisere ut med en etikett policy, her kan tilpasse hvilke brukere og apper du ønsker å treffe med etikettene.** 
 ![image](https://github.com/user-attachments/assets/6f683efb-3920-4336-a57e-32b1a84e5fff)
