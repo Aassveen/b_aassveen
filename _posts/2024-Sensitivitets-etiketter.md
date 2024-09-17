@@ -43,7 +43,7 @@ Støtte på tvers av apper og plattformer: Sensitivitetsetiketter fungerer i Off
 
 **Enkel administrasjon: Etikettene kan administreres sentralt, og du kan tilordne dem til brukere og grupper ved hjelp av etikettpolicyer.**
 
-Produkter som støtter sensitivitetsetiketter:
+**Produkter som støtter sensitivitetsetiketter:**
 * Microsoft Teams: Beskytt innhold i Teams-kanaler.
 * Microsoft 365-grupper: Bruk etiketter for å sikre samarbeid i grupper.
 * SharePoint: Konfigurer standard delingslenketype for nettsteder og dokumenter.
