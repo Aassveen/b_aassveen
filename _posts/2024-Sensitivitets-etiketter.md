@@ -2,7 +2,6 @@
 title:  "Sensitivitets etiketter"
 classes: wide
 toc: false
-date:   2024-09-17 07:00:00
 categories: 
 - Blog
 tags:
