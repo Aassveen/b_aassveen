@@ -43,4 +43,4 @@ Produkter som støtter sensitivitetsetiketter:
 * Outlook: Merk e-postmeldinger med riktig etikett.
 * Skjematiserte dataressurser: SQL, Azure SQL, Azure Synapse, Azure Cosmos, AWS RDS mm.
 
-<img src="(https://github.com/user-attachments/assets/fd97c976-de1a-4f39-b6b2-071abd782d33)" width="250"/>
+<img src="[https://github.com/user-attachments/assets/fd97c976-de1a-4f39-b6b2-071abd782d33]" width="250"/>
