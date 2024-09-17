@@ -23,7 +23,7 @@ Sensitivitetsetiketter fra Microsoft Purview Information Protection gir deg muli
 ![image](https://github.com/user-attachments/assets/fd97c976-de1a-4f39-b6b2-071abd782d33)
 
 
-<img src="[https://i.imgur.com/nJiBU5c.png](https://github.com/user-attachments/assets/fd97c976-de1a-4f39-b6b2-071abd782d33)" width="250"/>
+
 
 
 
@@ -41,4 +41,6 @@ Produkter som støtter sensitivitetsetiketter:
 * Microsoft 365-grupper: Bruk etiketter for å sikre samarbeid i grupper.
 * SharePoint: Konfigurer standard delingslenketype for nettsteder og dokumenter.
 * Outlook: Merk e-postmeldinger med riktig etikett.
-* Skjematiserte dataressurser: SQL, Azure SQL, Azure Synapse, Azure Cosmos, AWS RDS mm. 
+* Skjematiserte dataressurser: SQL, Azure SQL, Azure Synapse, Azure Cosmos, AWS RDS mm.
+
+<img src="(https://github.com/user-attachments/assets/fd97c976-de1a-4f39-b6b2-071abd782d33)" width="250"/>
