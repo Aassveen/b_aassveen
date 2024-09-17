@@ -24,8 +24,7 @@ Sensitivitetsetiketter fra Microsoft Purview Information Protection gir deg muli
 <img src="hhttps://imgur.com/fRxbdrO.png" width="800"/>
 
 **I etikett policyen velger du om du skal sette krav til etiketter, på data og fabric/PowerBI innhold mm. Du kan også sende brukerne til en hjelpeside hvor du kan beskrive hva disse etikettene betyr. Videre velger du om du ønsker å sette standard etiketter på innhold eller om brukeren selv må velge hvilken etikett som er aktuell.**
-<img src="https://imgur.com/jg7IVkN.png" width="800"/>
-<img src="https://imgur.com/jg7IVkN.png" width="800"/>
+
 
 
 
