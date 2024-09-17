@@ -23,6 +23,8 @@ Sensitivitetsetiketter fra Microsoft Purview Information Protection gir deg muli
 ![image](https://github.com/user-attachments/assets/fd97c976-de1a-4f39-b6b2-071abd782d33)
 
 
+<img src="[https://i.imgur.com/nJiBU5c.png](https://github.com/user-attachments/assets/fd97c976-de1a-4f39-b6b2-071abd782d33)" width="250"/>
+
 
 
 **Fordeler ved å bruke sensitivitetsetiketter:**
