@@ -1,6 +1,5 @@
 main:
   - title: "Posts"
     url: /posts/
-    url: /tags/
   - title: "Bjørnar"
     url: /Bjørnar/
