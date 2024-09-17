@@ -53,4 +53,4 @@ Støtte på tvers av apper og plattformer: Sensitivitetsetiketter fungerer i Off
 * Skjematiserte dataressurser: SQL, Azure SQL, Azure Synapse, Azure Cosmos, AWS RDS mm.
 
 
-****Bjørnar & AI****
+'''Bjørnar & AI'''
