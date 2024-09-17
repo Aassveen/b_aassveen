@@ -12,7 +12,8 @@ tags:
 ### Sensitivitetsetiketter i Microsoft 365
 Sensitivitetsetiketter fra Microsoft Purview Information Protection gir deg muligheten til å klassifisere og beskytte organisasjonens data. Disse etikettene hjelper deg med å fortelle brukerne hvor sensitiv informasjonen er, og de gir deg verktøy for å sikre at dataene håndteres i samsvar med organisasjonens policyer. Microsoft 365 kommer med et sett med følsomhetsetiketter ut av boksen, du kan velge å bruke disse videre eller opprette egne etiketter med tilhørende innstillinger
 
-![image](https://github.com/user-attachments/assets/42dde12a-87e1-4fa4-bc23-1f450badeb9a)
+![image](https://github.com/user-attachments/assets/2d32c4f4-4b30-4d85-b4ab-d1b0f4cdeadb)
+
 
 
 **Fordeler ved å bruke sensitivitetsetiketter:**
