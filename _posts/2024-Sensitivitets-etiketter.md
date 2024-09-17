@@ -1,6 +1,8 @@
 ---
 title:  "Sensitivitets etiketter"
-date:   2024-09-17 
+classes: wide
+toc: false
+date:   2024-09-17 07:00:00
 categories: 
 - Blog
 tags:
@@ -8,6 +10,7 @@ tags:
   - Data
   - Informasjonsforvaltning
 ---
+
 
 
 <img src="https://imgur.com/YyApvh4.png" width="200"/>
