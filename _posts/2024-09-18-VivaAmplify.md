@@ -22,7 +22,7 @@ tags:
 * **Innsikt og rapportering**: Bruk innebygde analyseverktøy for å måle effekten av kampanjene dine. Dette inkluderer sentimentanalyse og rapporter som hjelper deg med å forstå hvordan kommunikasjonen blir mottatt.
   
 ***Eksempler på bruk***
-**Produktlansering**: Opprett en kampanje for å informere ansatte om en kommende produktlansering. Inkluder detaljer om produktet, lanseringsdatoer og opplæringsressurser.
-**Veldedighetsarrangement**: Planlegg og promoter et veldedighetsarrangement ved å sende ut e-poster, lage SharePoint-innlegg og dele informasjon i Teams.
-**Opplæringsprogram**: Oppmuntre ansatte til å delta i opplæringsprogrammer ved å sende ut påminnelser og ressurser gjennom ulike kommunikasjonskanaler.
+* **Produktlansering**: Opprett en kampanje for å informere ansatte om en kommende produktlansering. Inkluder detaljer om produktet, lanseringsdatoer og opplæringsressurser.
+* **Veldedighetsarrangement**: Planlegg og promoter et veldedighetsarrangement ved å sende ut e-poster, lage SharePoint-innlegg og dele informasjon i Teams.
+* **Opplæringsprogram**: Oppmuntre ansatte til å delta i opplæringsprogrammer ved å sende ut påminnelser og ressurser gjennom ulike kommunikasjonskanaler.
 
