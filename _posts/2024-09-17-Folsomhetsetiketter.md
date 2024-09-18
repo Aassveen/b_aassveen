@@ -1,5 +1,6 @@
 ---
 title:  "Følsomhetsetiketter"
+date:   2024-18-09
 classes: wide
 toc: false
 categories: 
