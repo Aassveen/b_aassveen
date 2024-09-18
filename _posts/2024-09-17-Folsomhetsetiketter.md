@@ -1,6 +1,6 @@
 ---
 title:  "Følsomhetsetiketter"
-date:   2024-18-09
+date:   2024-09-17
 classes: wide
 toc: false
 categories: 
