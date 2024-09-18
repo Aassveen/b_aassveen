@@ -1,6 +1,6 @@
 ---
 title:  "Viva Amplify"
-date:   2024-18-09
+date:   2024-09-18
 classes: wide
 toc: false
 categories: 
