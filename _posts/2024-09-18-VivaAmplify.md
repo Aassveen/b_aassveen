@@ -27,3 +27,6 @@ tags:
 * **Opplæringsprogram**: Oppmuntre ansatte til å delta i opplæringsprogrammer ved å sende ut påminnelser og ressurser gjennom ulike kommunikasjonskanaler.
 
 [Amplify-Demo.webm](https://github.com/user-attachments/assets/7be2c88b-7aee-4cad-b97b-dffaeb888275)
+
+
+`Bjørnar & AI`
