@@ -17,7 +17,6 @@ tags:
 * Disse verktøyene er essensielle for organisasjoner som ønsker å administrere og beskytte sine data effektivt. Vi tar en titt på hvordan eDiscovery kan hjelpe med å finne og bevare relevant informasjon for juridiske saker og undersøkelser, samt hvordan Content Explorer gir innsikt i dataene dine, slik at du kan identifisere og administrere sensitiv informasjon på en sikker måte. 
 
 ***eDiscovery Administrator*** 
-
 eDiscovery i Microsoft 365 er et sett med funksjoner designet for å hjelpe med å søke, samle og eksportere data fra Microsoft 365-organisasjoner. Det er en prosess for å identifisere og levere elektronisk informasjon som kan brukes som bevis i rettssaker eller lignende.  
 En eDiscovery Administrator kan utføre de samme oppgavene som en eDiscovery Manager, som inkluderer bruk av eDiscovery søkeverktøy for å søke i innholdsplasseringer i organisasjonen, og utføre forskjellige søkerelaterte handlinger som forhåndsvisning og eksport av søkeresultater. De kan også opprette og administrere saker i Microsoft Purview eDiscovery (Standard) og Microsoft Purview eDiscovery (Premium), legge til og fjerne medlemmer i en sak, opprette saksbeholdninger, kjøre søk knyttet til en sak, og få tilgang til saksdata. 
 *I tillegg til dette, kan en eDiscovery Administrator: 
@@ -25,8 +24,6 @@ En eDiscovery Administrator kan utføre de samme oppgavene som en eDiscovery Man
 * Få tilgang til saksdata i eDiscovery (Premium) for enhver sak i organisasjonen. 
 * Administrere enhver eDiscovery sak etter at de har lagt seg selv til som medlem av saken. 
 * Fjerne medlemmer fra en eDiscovery sak. Bare en eDiscovery Administrator kan fjerne medlemmer fra en sak. 
-
- 
 
 **Eksempel på bruk av eDiscovery rollen**
 La oss si at det er en juridisk sak som involverer en ansatt i organisasjonen din, kalt “Ansatte X”. Du, som eDiscovery Administrator, har fått oppgaven å finne alle e-poster og dokumenter som er relatert til denne saken. 
@@ -39,7 +36,6 @@ La oss si at det er en juridisk sak som involverer en ansatt i organisasjonen di
  
 
  
-
 ***Content Explorer***
 Content Explorer i Microsoft Purview er et verktøy som gir deg en oversikt over elementene i organisasjonen din som har en sensitivitetsetikett, en bevaringsetikett eller er klassifisert som en sensitiv informasjonstype. 
 Her er noen av hovedfunksjonene til Content Explorer: 
