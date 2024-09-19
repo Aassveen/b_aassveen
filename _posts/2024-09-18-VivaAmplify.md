@@ -23,7 +23,7 @@ tags:
   
 ***Eksempler på bruk***
 * **Produktlansering**: Opprett en kampanje for å informere ansatte om en kommende produktlansering. Inkluder detaljer om produktet, lanseringsdatoer og opplæringsressurser.
-* **Veldedighetsarrangement**: Planlegg og promoter et veldedighetsarrangement ved å sende ut e-poster, lage SharePoint-innlegg og dele informasjon i Teams.
+* **Sosialtarrangement**: Planlegg og promoter et sosialtarrangement ved å sende ut e-poster, lage SharePoint-innlegg og dele informasjon i Teams.
 * **Opplæringsprogram**: Oppmuntre ansatte til å delta i opplæringsprogrammer ved å sende ut påminnelser og ressurser gjennom ulike kommunikasjonskanaler.
 
 
