@@ -1,5 +1,5 @@
 ---
-title:  "Følsomhetsetiketter🏷️"
+title:  "Microsoft Purview del 1: Følsomhetsetiketter🏷️"
 date:   2024-09-17
 classes: wide
 toc: false
@@ -10,6 +10,7 @@ tags:
   - Data
   - Informasjonsforvaltning
 ---
+***Microsoft Purview del 1: Dette er del 1 av flere deler som omhandler Microsoft Purview og hvilke verktøy man har tilgjengelig der.***
 
 ***Følsomhetsetiketter i Microsoft 365***
 * Følsomhetsetiketter i Microsoft Purview gir deg muligheten til å klassifisere og beskytte organisasjonens data. Etikettene hjelper deg med å fortelle brukerne hvor sensitiv informasjonen er, og de gir deg verktøy for å sikre at dataene håndteres i samsvar med organisasjonens policyer. Microsoft 365 kommer med et sett med følsomhetsetiketter ut av boksen, du kan velge å bruke disse videre eller opprette egne etiketter med tilhørende innstillinger
