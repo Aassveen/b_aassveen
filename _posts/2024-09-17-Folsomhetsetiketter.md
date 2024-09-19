@@ -1,5 +1,5 @@
 ---
-title:  "Følsomhetsetiketter"
+title:  "Følsomhetsetiketter🏷️"
 date:   2024-09-17
 classes: wide
 toc: false
