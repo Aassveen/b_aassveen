@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Bjørnar Aassveen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hei,jeg er Bjørnar. Jeg liker IT & mat."
+  bio    : "Jeg er Bjørnar. Jeg liker IT 💻 & mat 🍕."
   location : "Near Brumunddal, Norway"
   links:
     - label: "Near Brumunddal, Norway"
