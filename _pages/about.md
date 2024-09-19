@@ -4,7 +4,7 @@ title: "Bjørnar"
 ---
  
  
-**Sertifiseringer/Kurs:**
+**Sertifiseringer/Kurs:** 🥇
 *  AZ900 - Azure Fundamentals 
 *  MS900 - Microsoft 365 Fundamentals
 *  MS 20410 - Windows Server 2012
@@ -15,14 +15,14 @@ title: "Bjørnar"
 *  DigiDocFlow
 
   
-**Microsoft applied skills**
+**Microsoft applied skills** 🥈
 * Deploy and configure Azure Monitor
 * Congifure SIEM security operations using Microsoft Sentinel
 * Secure Azure services and workloads with Microsoft Defender for Cloud
 * MS-012 Prepare your organization for Microsoft 365 Copilot
 
 
-**Jobber for tiden med:**
+**Jobber for tiden med:** 💻
 * Microsoft 365
 * Purview
 * Document lifecycle
