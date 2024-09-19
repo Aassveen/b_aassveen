@@ -11,7 +11,7 @@ tags:
   - Informasjonsforvaltning
 ---
 
-***Microsoft Purview del 1: Dette er del 1 av flere deler som omhandler Microsoft Purview og hvilke verktøy man har tilgjengelig der.***
+***Microsoft Purview del 2: Dette er del 2 av flere deler som omhandler Microsoft Purview og hvilke verktøy man har tilgjengelig der.***
 
 **I denne bloggposten dykker vi ned i to kraftige verktøy i Microsoft Purview: eDiscovery og Content Explorer.**
 * Disse verktøyene er essensielle for organisasjoner som ønsker å administrere og beskytte sine data effektivt. Vi tar en titt på hvordan eDiscovery kan hjelpe med å finne og bevare relevant informasjon for juridiske saker og undersøkelser, samt hvordan Content Explorer gir innsikt i dataene dine, slik at du kan identifisere og administrere sensitiv informasjon på en sikker måte. 
