@@ -1,5 +1,5 @@
 ---
-title:  "Microsoft Purview del 1: Effektive verktøy for moderne datastyring🔓"
+title:  "Microsoft Purview del 2: Effektive verktøy for moderne datastyring🔓"
 date:   2024-09-19
 classes: wide
 toc: false
