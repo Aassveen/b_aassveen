@@ -17,7 +17,7 @@ tags:
 **Hvordan fungerer Viva Amplify?**
 * Viva Amplify gir en sentralisert plattform hvor du kan opprette og administrere kampanjer. Disse kampanjene kan inkludere ulike typer kommunikasjon som e-post, SharePoint-innlegg og Teams-meldinger. Her er noen av hovedfunksjonene:
 * **Kampanjeadministrasjon**: Planlegg og orkestrer kommunikasjon rundt spesifikke mål, som produktlanseringer, veldedighetsarrangementer eller opplæringsprogrammer.
-* **Flere kanaler**: Publiser meldinger gjennom flere kanaler som SharePoint, Outlook og Teams for å nå ut til hele organisasjonen2.
+* **Flere kanaler**: Publiser meldinger gjennom flere kanaler som SharePoint, Outlook og Teams for å nå ut til hele organisasjonen.
 * **Samarbeid**: Arbeid sammen med teamet ditt for å opprette, godkjenne og publisere innhold. 
 * **Innsikt og rapportering**: Bruk innebygde analyseverktøy for å måle effekten av kampanjene dine. Dette inkluderer sentimentanalyse og rapporter som hjelper deg med å forstå hvordan kommunikasjonen blir mottatt.
   
