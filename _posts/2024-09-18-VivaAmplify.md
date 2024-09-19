@@ -1,5 +1,5 @@
 ---
-title:  "Viva Amplify"
+title:  "Viva Amplify ✏️"
 date:   2024-09-18
 classes: wide
 toc: false
