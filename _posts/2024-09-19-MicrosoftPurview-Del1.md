@@ -54,3 +54,5 @@ Her er noen av hovedfunksjonene til Content Explorer:
 
 Kontoen du bruker for å få tilgang til Content Explorer, må være i en eller begge rollegruppene. Disse er uavhengige rollegrupper og er ikke kumulative. For eksempel, hvis du vil gi en konto muligheten til bare å se elementene og deres plasseringer, tildel Content Explorer List viewer-rettigheter. Hvis du vil at den samme kontoen også skal kunne se innholdet i elementene i listen, tildel Content Explorer Content viewer-rettigheter også. 
 En global administrator kan tildele nødvendig Content Explorer List Viewer og Content Explorer Content Viewer rollegruppemedlemskap. 
+
+`Bjørnar & AI`
