@@ -10,7 +10,7 @@ tags:
   - Kommunikasjon
 ---
 
-### Viva Engage har fått økt oppmerksomhet etter at Meta annonserte nedleggelsen av Workplace by Meta fra 31. august 2025.
+### Viva Engage har fått økt oppmerksomhet etter at Meta annonserte nedleggelsen av Workplace by Meta fra 31. august 2025. La oss se litt på historien og hvorfor Viva Engage er en god erstatter for Workplace.
 
 ![image](https://github.com/user-attachments/assets/5b7dc19e-602c-4e2a-aab3-9b38e57c034a)
 
