@@ -23,18 +23,22 @@ Viva engage er en het potet om dagen, særlig etter Meta annonserte at de legger
 
 ***Hva er hovedområdene Viva engage dekker?***
 
-#### 1. Bygg fellesskap
+#### 1. Bygg fellesskap🤼‍♂️
 Viva Engage lar ansatte opprette og delta i fellesskap basert på interesser, jobbtyper, avdelinger og andre emner. Dette skaper en plattform hvor ansatte kan dele kunnskap, erfaringer og ideer, noe som fremmer samarbeid og innovasjon.
 
-#### 2. Engasjer de ansatte
+#### 2. Engasjer de ansatte🤹‍♂️
 Gjennom åpne samtaler og diskusjoner kan ansatte delta aktivt i organisasjonens daglige liv. Viva Engage gjør det enkelt å opprette innlegg, @omtale kolleger, og delta i meningsfulle samtaler som kan bidra til å styrke organisasjonskulturen.
 
-#### 3. Hold virtuelle møter
+#### 3. Hold virtuelle møter🤝
 Viva Engage støtter virtuelle arrangementer med video, spørsmål og svar, og interaktive samtaler. Dette er spesielt nyttig for å samle ledere og ansatte til fellesmøter. Engage benytter Teams Live events (snart Townhall..). Du kan velge å kjøre produsere Live events direkte i Teams eller via RTMPS stream fra tredjepartsprodusent verktøy. 
 
-#### 4. Foreta kunngjøringer
+#### 4. Foreta kunngjøringer🔉
 Med Viva Engage kan ledelsen foreta kunngjøringer i stor skala, noe som sikrer at alle ansatte holdes informert og engasjert. Dette kan inkludere alt fra viktige bedriftsnyheter til mindre oppdateringer.
 
-#### 5. Bruk avanserte funksjoner
+#### 5. Bruk avanserte funksjoner🦸‍♂️
 Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtte, innsiktsanalyser, og integrasjon med kunstig intelligens for å finne og følge emner, spørsmål og svar, og finne løsninger.
+
+
+***Lisens og kostnader💲?***
+
 
