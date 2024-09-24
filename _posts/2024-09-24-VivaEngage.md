@@ -44,7 +44,7 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 | Lisens   | Engage Core* inkludert | Premium |
 | -------------- | --------------- | ---------------|
 | Microsoft 365 E1/3/5 | JA            | NEI |               
-| Microsoft 365 Business * | NEI             | NEI |                
+| Microsoft 365 Business Basic/Standard/Premium | NEI             | NEI |                
 | Microsoft Viva medarbeiderkommunikasjon og fellesskap   | JA | JA |          |                
 | Microsoft Viva Workplace analyse og tilbakemeldinger | NEI | NEI |
 | Microsoft Viva Suite | JA | JA |
