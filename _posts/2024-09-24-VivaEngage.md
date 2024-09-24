@@ -41,10 +41,10 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 
 **Lisens og kostnader💲?**
 
-| Lisens   | Engage inkludert | Ekstra add-ons |
-| -------------- | --------------- | -------------- |
-| Microsoft 365 E1/3/5 | JA            |                |
-| Microsoft 365 Business * | NEI             |                |
-| Microsoft Viva medarbeiderkommunikasjon og fellesskap   | JA           |                |
-| Microsoft Viva Workplace analyse og tilbakemeldinger | NEI | |
-| Microsoft Viva-Serien | JA | |
+| Lisens   | Engage inkludert | 
+| -------------- | --------------- | 
+| Microsoft 365 E1/3/5 | JA            |                
+| Microsoft 365 Business * | NEI             |                
+| Microsoft Viva medarbeiderkommunikasjon og fellesskap   | JA           |                
+| Microsoft Viva Workplace analyse og tilbakemeldinger | NEI | 
+| Microsoft Viva-Serien | JA | 
