@@ -50,7 +50,7 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 | Microsoft Viva Suite | JA | JA |
 
 
-[^1]: **Viva Engage Core: Inkluderer flere funksjoner som hjelper med å bygge fellesskap, dele kunnskap og engasjere ansatte.**
+[^1]:**Viva Engage Core: Inkluderer flere funksjoner som hjelper med å bygge fellesskap, dele kunnskap og engasjere ansatte.**
 * Fellesskap: Opprett og delta i fellesskap for kunnskapsdeling, ansattes opplevelser, bedriftskommunikasjon og lederengasjement. Fellesskap kan være offentlige eller private.
 * Kunngjøringer: Administratorer kan lage kunngjøringer for å dele viktig informasjon med hele fellesskapet. Medlemmer blir varslet både i Viva Engage og via e-post.
 * Hjem-feed: Hold deg oppdatert på hva som skjer i organisasjonen din, inkludert nyheter fra ledelsen, kolleger og andre avdelinger.
