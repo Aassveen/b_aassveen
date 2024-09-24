@@ -10,6 +10,7 @@ tags:
   - Kommunikasjon
 ---
 
+![image](https://github.com/user-attachments/assets/5b7dc19e-602c-4e2a-aab3-9b38e57c034a)
 
 
 ***Hva er Viva Engage og hvordan kan det brukes?***
