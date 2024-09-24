@@ -50,14 +50,14 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 | Microsoft Viva Suite | JA | JA |
 
 
-[^1]:**Viva Engage Core: Inkluderer flere funksjoner som hjelper med å bygge fellesskap, dele kunnskap og engasjere ansatte.**\
-[^1]:Fellesskap: Opprett og delta i fellesskap for kunnskapsdeling, ansattes opplevelser, bedriftskommunikasjon og lederengasjement. Fellesskap kan være offentlige eller private.\
-[^1]:Kunngjøringer: Administratorer kan lage kunngjøringer for å dele viktig informasjon med hele fellesskapet. Medlemmer blir varslet både i Viva Engage og via e-post.\
-[^1]:Hjem-feed: Hold deg oppdatert på hva som skjer i organisasjonen din, inkludert nyheter fra ledelsen, kolleger og andre avdelinger.\
-[^1]:Samtaler: Post samtaler, spørsmål, avstemninger og ros i et fellesskap eller på din storyline. Samtaler inkluderer en medieeditor med muligheter for å legge ved filer, bilder, videoer, GIF-er og mer.\
-[^1]:Virtuelle arrangementer: Arranger live videoarrangementer med Viva Engage-samtaler og Q&A før, under og etter arrangementet.\
-[^1]:Spørsmål og svar: Still og svar på spørsmål i Viva Engage-fellesskap for å dele kunnskap med andre medlemmer. Svar kan oppstemmes og markeres som beste svar.\
-[^1]:Storyline: Del innlegg og oppdateringer med dine følgere og andre interesserte i organisasjonen for å uttrykke deg selv og dele ditt arbeid\
+[^1]:**Viva Engage Core: Inkluderer flere funksjoner som hjelper med å bygge fellesskap, dele kunnskap og engasjere ansatte.** \
+[^1]:Fellesskap: Opprett og delta i fellesskap for kunnskapsdeling, ansattes opplevelser, bedriftskommunikasjon og lederengasjement. Fellesskap kan være offentlige eller private. \
+[^1]:Kunngjøringer: Administratorer kan lage kunngjøringer for å dele viktig informasjon med hele fellesskapet. Medlemmer blir varslet både i Viva Engage og via e-post. \
+[^1]:Hjem-feed: Hold deg oppdatert på hva som skjer i organisasjonen din, inkludert nyheter fra ledelsen, kolleger og andre avdelinger. \
+[^1]:Samtaler: Post samtaler, spørsmål, avstemninger og ros i et fellesskap eller på din storyline. Samtaler inkluderer en medieeditor med muligheter for å legge ved filer, bilder, videoer, GIF-er og mer. \
+[^1]:Virtuelle arrangementer: Arranger live videoarrangementer med Viva Engage-samtaler og Q&A før, under og etter arrangementet. \
+[^1]:Spørsmål og svar: Still og svar på spørsmål i Viva Engage-fellesskap for å dele kunnskap med andre medlemmer. Svar kan oppstemmes og markeres som beste svar. \
+[^1]:Storyline: Del innlegg og oppdateringer med dine følgere og andre interesserte i organisasjonen for å uttrykke deg selv og dele ditt arbeid \
 
 
 
