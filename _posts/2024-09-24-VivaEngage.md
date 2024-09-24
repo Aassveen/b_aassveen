@@ -18,7 +18,7 @@ Selvfølgelig! Her er et forslag til en bloggpost om Viva Engage:
 * I dagens digitale arbeidsmiljø er det viktigere enn noen gang å holde ansatte engasjert og tilkoblet. Microsoft Viva Engage er en kommunikasjonsplattform designet for å bygge fellesskap, dele kunnskap og engasjere ansatte på tvers av organisasjonen. Men hva er egentlig Viva Engage, og hvordan kan det brukes effektivt? La oss dykke dypere inn i dette.
 
 **Hva er Viva Engage?**
-*Microsoft Viva Engage er en sosial app for digitale fellesskap og samtaler. Den bygger på de eksisterende funksjonene i Communities-appen for Teams og Microsoft 365, og gir ansatte muligheten til å uttrykke seg, bidra og knytte bånd med kolleger uansett hvor de befinner seg³. Viva Engage er en del av Microsoft Viva-serien, som fokuserer på å forbedre medarbeideropplevelsen gjennom ulike verktøy og tjenester².
+* Microsoft Viva Engage er en sosial app for digitale fellesskap og samtaler. Den bygger på de eksisterende funksjonene i Communities-appen for Teams og Microsoft 365, og gir ansatte muligheten til å uttrykke seg, bidra og knytte bånd med kolleger uansett hvor de befinner seg³. Viva Engage er en del av Microsoft Viva-serien, som fokuserer på å forbedre medarbeideropplevelsen gjennom ulike verktøy og tjenester².
 
 ***Hva er hovedområdene Viva engage dekker?***
 
