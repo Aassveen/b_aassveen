@@ -21,7 +21,7 @@ tags:
 
 ***Hva er hovedområdene Viva engage dekker?***
 
-#### 1. **Bygg fellesskap**
+#### 1. Bygg fellesskap
 Viva Engage lar ansatte opprette og delta i fellesskap basert på interesser, jobbtyper, avdelinger og andre emner. Dette skaper en plattform hvor ansatte kan dele kunnskap, erfaringer og ideer, noe som fremmer samarbeid og innovasjon.
 
 #### 2. **Engasjer de ansatte**
