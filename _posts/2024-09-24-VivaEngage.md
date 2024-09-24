@@ -59,6 +59,7 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 * Spørsmål og svar: Still og svar på spørsmål i Viva Engage-fellesskap for å dele kunnskap med andre medlemmer. Svar kan oppstemmes og markeres som beste svar.
 * Storyline: Del innlegg og oppdateringer med dine følgere og andre interesserte i organisasjonen for å uttrykke deg selv og dele ditt arbeid
 
+
 [2]
 **Dedikert lisens for Viva Engage (Premium):**
 * Premium Community Experiences: Avanserte fellesskapsfunksjoner som crowdsourced kunnskap via spørsmål og svar.
