@@ -41,13 +41,13 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 
 **Lisens og kostnader💲?**
 
-| Lisens   | Engage Core* inkludert | 
-| -------------- | --------------- | 
-| Microsoft 365 E1/3/5 | JA            |                
-| Microsoft 365 Business * | NEI             |                
-| Microsoft Viva medarbeiderkommunikasjon og fellesskap   | JA           |                
-| Microsoft Viva Workplace analyse og tilbakemeldinger | NEI | 
-| Microsoft Viva-Serien | JA | 
+| Lisens   | Engage Core* inkludert | Premium |
+| -------------- | --------------- | |
+| Microsoft 365 E1/3/5 | JA            | NEI |               
+| Microsoft 365 Business * | NEI             | NEI |                
+| Microsoft Viva medarbeiderkommunikasjon og fellesskap   | JA | JA |          |                
+| Microsoft Viva Workplace analyse og tilbakemeldinger | NEI | NEI |
+| Microsoft Viva-Serien | JA | JA |
 
 *Viva Engage Core: Inkluderer flere funksjoner som hjelper med å bygge fellesskap, dele kunnskap og engasjere ansatte.
 * Fellesskap: Opprett og delta i fellesskap for kunnskapsdeling, ansattes opplevelser, bedriftskommunikasjon og lederengasjement. Fellesskap kan være offentlige eller private.
