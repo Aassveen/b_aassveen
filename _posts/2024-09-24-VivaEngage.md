@@ -17,22 +17,22 @@ tags:
 * I dagens digitale arbeidsmiljø er det viktigere enn noen gang å holde ansatte engasjert og tilkoblet. Microsoft Viva Engage er en kommunikasjonsplattform designet for å bygge fellesskap, dele kunnskap og engasjere ansatte på tvers av organisasjonen. Men hva er egentlig Viva Engage, og hvordan kan det brukes effektivt? La oss dykke dypere inn i dette.
 
 **Hva er Viva Engage?**
-* Microsoft Viva Engage er en sosial app for digitale fellesskap og samtaler. Den bygger på de eksisterende funksjonene i Communities-appen for Teams og Microsoft 365, og gir ansatte muligheten til å uttrykke seg, bidra og knytte bånd med kolleger uansett hvor de befinner seg³. Viva Engage er en del av Microsoft Viva-serien, som fokuserer på å forbedre medarbeideropplevelsen gjennom ulike verktøy og tjenester.
+* Microsoft Viva Engage er en sosial app designet for å bygge fellesskap og fremme kommunikasjon og samarbeid i organisasjoner. Den lar ansatte opprette og delta i ulike fellesskap, dele kunnskap og erfaringer, og engasjere seg i åpne samtaler. Viva Engage støtter også virtuelle møter og kunngjøringer, noe som bidrar til å holde alle ansatte informert og engasjert. Som en del av Microsoft Viva-serien, fokuserer den på å forbedre medarbeideropplevelsen og styrke organisasjonskulturen.
 
 ***Hva er hovedområdene Viva engage dekker?***
 
 #### 1. Bygg fellesskap
 Viva Engage lar ansatte opprette og delta i fellesskap basert på interesser, jobbtyper, avdelinger og andre emner. Dette skaper en plattform hvor ansatte kan dele kunnskap, erfaringer og ideer, noe som fremmer samarbeid og innovasjon.
 
-#### 2. **Engasjer de ansatte**
+#### 2. Engasjer de ansatte
 Gjennom åpne samtaler og diskusjoner kan ansatte delta aktivt i organisasjonens daglige liv. Viva Engage gjør det enkelt å opprette innlegg, @omtale kolleger, og delta i meningsfulle samtaler som kan bidra til å styrke organisasjonskulturen.
 
-#### 3. **Hold virtuelle møter**
-Viva Engage støtter virtuelle arrangementer med video, spørsmål og svar, og interaktive samtaler. Dette er spesielt nyttig for å samle ledere og ansatte til fellesmøter, selv når de jobber fra forskjellige steder.
+#### 3. Hold virtuelle møter
+Viva Engage støtter virtuelle arrangementer med video, spørsmål og svar, og interaktive samtaler. Dette er spesielt nyttig for å samle ledere og ansatte til fellesmøter. Engage benytter Teams Live events (snart Townhall..). Du kan velge å kjøre produsere Live events direkte i Teams eller via RTMPS stream fra tredjepartsprodusent verktøy. 
 
-#### 4. **Foreta kunngjøringer**
+#### 4. Foreta kunngjøringer
 Med Viva Engage kan ledelsen foreta kunngjøringer i stor skala, noe som sikrer at alle ansatte holdes informert og engasjert. Dette kan inkludere alt fra viktige bedriftsnyheter til mindre oppdateringer.
 
-#### 5. **Bruk avanserte funksjoner**
-Viva Engage tilbyr også avanserte funksjoner som deling av dreiebøker, innsiktsanalyser, og integrasjon med kunstig intelligens for å finne og følge emner, kommunisere med eksperter, og finne løsninger.
+#### 5. Bruk avanserte funksjoner
+Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtte, innsiktsanalyser, og integrasjon med kunstig intelligens for å finne og følge emner, spørsmål og svar, og finne løsninger.
 
