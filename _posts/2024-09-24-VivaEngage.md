@@ -10,6 +10,8 @@ tags:
   - Kommunikasjon
 ---
 
+Viva engage er en het potet om dagen, særlig etter Meta annonserte at de legger ned Workplace by facebook fra og med 31. august 2025.
+
 ![image](https://github.com/user-attachments/assets/5b7dc19e-602c-4e2a-aab3-9b38e57c034a)
 
 
