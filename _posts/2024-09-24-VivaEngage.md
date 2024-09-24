@@ -19,7 +19,7 @@ tags:
 * I dagens digitale arbeidsmiljø er det viktigere enn noen gang å holde ansatte engasjert og tilkoblet. Microsoft Viva Engage er en kommunikasjonsplattform designet for å bygge fellesskap, dele kunnskap og engasjere ansatte på tvers av organisasjonen. Men hva er egentlig Viva Engage, og hvordan kan det brukes effektivt? La oss dykke dypere inn i dette.
 
 **Hva er Viva Engage?**
-* Microsoft Viva Engage er en sosial app designet for å bygge fellesskap og fremme kommunikasjon og samarbeid i organisasjoner. Den lar ansatte opprette og delta i ulike fellesskap, dele kunnskap og erfaringer, og engasjere seg i åpne samtaler. Viva Engage støtter også virtuelle møter og kunngjøringer, noe som bidrar til å holde alle ansatte informert og engasjert. Som en del av Microsoft Viva-serien, fokuserer den på å forbedre medarbeideropplevelsen og styrke organisasjonskulturen. Som man ser av lisensoversikten under vil de fleste bedrifter som allerede har Microsoft 365 E* lisens spare penger ved å gå fra Workplace til Microsoft Viva Engage ettersom Core[1] funksjonalitet er inkludert ut av boksen.
+* Microsoft Viva Engage er en sosial app designet for å bygge fellesskap og fremme kommunikasjon og samarbeid i organisasjoner. Den lar ansatte opprette og delta i ulike fellesskap, dele kunnskap og erfaringer, og engasjere seg i åpne samtaler. Viva Engage støtter også virtuelle møter og kunngjøringer, noe som bidrar til å holde alle ansatte informert og engasjert. Som en del av Microsoft Viva-serien, fokuserer den på å forbedre medarbeideropplevelsen og styrke organisasjonskulturen. Som man ser av lisensoversikten under vil de fleste bedrifter som allerede har Microsoft 365 E* lisens spare penger ved å gå fra Workplace til Microsoft Viva Engage ettersom Core[^1]. funksjonalitet er inkludert ut av boksen.
 
 ***Hva er hovedområdene Viva engage dekker?***
 
@@ -41,7 +41,7 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 
 **Lisens og kostnader💲?**
 
-| Lisens   | Engage Core inkludert[1] | Premium [2]|
+| Lisens   | Engage Core inkludert[^1]. | Premium [^2].|
 | -------------- | --------------- | ---------------|
 | Microsoft 365 E1/3/5 | JA            | NEI |               
 | Microsoft 365 Business Basic/Standard/Premium | NEI             | NEI |                
@@ -49,7 +49,7 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 | Microsoft Viva Workplace analyse og tilbakemeldinger | NEI | NEI |
 | Microsoft Viva Suite | JA | JA |
 
-[1]
+[^1]:
 **Viva Engage Core: Inkluderer flere funksjoner som hjelper med å bygge fellesskap, dele kunnskap og engasjere ansatte.**
 * Fellesskap: Opprett og delta i fellesskap for kunnskapsdeling, ansattes opplevelser, bedriftskommunikasjon og lederengasjement. Fellesskap kan være offentlige eller private.
 * Kunngjøringer: Administratorer kan lage kunngjøringer for å dele viktig informasjon med hele fellesskapet. Medlemmer blir varslet både i Viva Engage og via e-post.
@@ -60,7 +60,7 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 * Storyline: Del innlegg og oppdateringer med dine følgere og andre interesserte i organisasjonen for å uttrykke deg selv og dele ditt arbeid
 
 
-[2]
+[^2]:
 **Dedikert lisens for Viva Engage (Premium):**
 * Premium Community Experiences: Avanserte fellesskapsfunksjoner som crowdsourced kunnskap via spørsmål og svar.
 * Flere merkevaretilpassede destinasjoner: Støtte for flere tilpassede destinasjoner for bedriftsnyheter og kunngjøringer.
