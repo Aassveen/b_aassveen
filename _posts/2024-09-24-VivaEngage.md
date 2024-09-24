@@ -39,6 +39,10 @@ Med Viva Engage kan ledelsen foreta kunngjøringer i stor skala, noe som sikrer 
 Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtte, innsiktsanalyser, og integrasjon med kunstig intelligens for å finne og følge emner, spørsmål og svar, og finne løsninger.
 
 
-***Lisens og kostnader💲?***
+**Lisens og kostnader💲?**
 
-
+| Lisens   | Engage inkludert | Ekstra add-ons |
+| -------------- | --------------- | -------------- |
+| Microsoft 365* | $250            |                |
+| February | $80             |                |
+| March    | $420            |                |
