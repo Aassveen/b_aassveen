@@ -42,7 +42,7 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 **Lisens og kostnader💲?**
 
 | Lisens   | Engage Core* inkludert | Premium |
-| -------------- | --------------- | |
+| -------------- | --------------- | ---------------|
 | Microsoft 365 E1/3/5 | JA            | NEI |               
 | Microsoft 365 Business * | NEI             | NEI |                
 | Microsoft Viva medarbeiderkommunikasjon og fellesskap   | JA | JA |          |                
@@ -59,7 +59,7 @@ Viva Engage tilbyr også avanserte funksjoner som deling av kommunikasjonsstøtt
 * Storyline: Del innlegg og oppdateringer med dine følgere og andre interesserte i organisasjonen for å uttrykke deg selv og dele ditt arbeid
 
 
-**Dedikert lisens for Viva Engage:
+**Dedikert lisens for Viva Engage (Premium):
 * Premium Community Experiences: Avanserte fellesskapsfunksjoner som crowdsourced kunnskap via spørsmål og svar.
 * Flere merkevaretilpassede destinasjoner: Støtte for flere tilpassede destinasjoner for bedriftsnyheter og kunngjøringer.
 * Sentralisert kampanjestyring: For multikanalpublisering.
