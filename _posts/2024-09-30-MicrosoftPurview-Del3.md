@@ -44,7 +44,7 @@ Microsoft Purview bruker SITs i flere sikkerhets- og samsvarsfunksjoner:
 ![image](https://github.com/user-attachments/assets/750dfc5f-0a84-48df-927e-3e9b8f2edb68)
 ![image](https://github.com/user-attachments/assets/f125f92d-39a0-4093-bb83-93e686f7e6d2)
 
-**DLP policyen sender et varsel til sluttbruker om at du nå behandler informasjon som inneholder personnummer.
+**DLP policyen sender et varsel til sluttbruker om at du nå behandler informasjon som inneholder personnummer.**
 ![image](https://github.com/user-attachments/assets/ff22a59d-3bb7-4d77-8515-cd0fc58a5eae)
 
 
