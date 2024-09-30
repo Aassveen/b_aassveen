@@ -33,7 +33,6 @@ La oss si at det er en juridisk sak som involverer en ansatt i organisasjonen di
 * Gjennomgå resultatene: Når søket er fullført, kan du forhåndsvise resultatene direkte i portalen. Du kan også eksportere resultatene for videre analyse. 
 * Opprett en sakbeholdning: Hvis du finner relevant informasjon, kan du opprette en sakbeholdning for å bevare innholdet i en bestemt tidsperiode. Dette sikrer at dataene ikke blir slettet eller endret mens saken pågår. 
 
- ![image](https://github.com/user-attachments/assets/ccac9cd0-7a4c-4f34-a8ca-90f2cf7bffb0)
 
 
  
@@ -44,6 +43,9 @@ Her er noen av hovedfunksjonene til Content Explorer:
 * Den identifiserer automatisk vanlige typer sensitiv data basert på hundrevis av innebygde datamønstre som personnummer, bankkontoinformasjon eller førerkortnumre. 
 * Content Explorer viser også hvor disse datatypene er plassert, og du kan til og med bore ned til filen eller e-postmeldingen som inneholder den. 
 * Du kan bruke Content Explorer til å forbedre ytelsen til egendefinerte trenbare klassifiseringer ved å gi dem mer tilbakemelding. 
+
+![image](https://github.com/user-attachments/assets/00109f1d-b16a-4c57-877a-b0c80ea8f79f)
+
 
 **Tilgang til Content Explorer er sterkt begrenset fordi det lar deg lese innholdet i skannede filer. Det er to roller som gir tilgang til Content Explorer, og det gis ved hjelp av Microsoft Purview compliance portal:**
 * Content Explorer List viewer: Medlemskap i denne rollegruppen lar deg se hvert element og dets plassering i listevisning. 
