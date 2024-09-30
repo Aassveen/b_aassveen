@@ -12,6 +12,7 @@ tags:
 ---
 
 ***Microsoft Purview del 3: Dette er del 3 av flere deler som omhandler Microsoft Purview og hvilke verktøy man har tilgjengelig der.***
+
 **I denne bloggposten dykker vi ned i hvordan man kan identifisere og behandle sensitive informasjonstyper (SITs) i Microsoft Purview.**
 
 ### Hva er Sensitive Information Types (SITs)?
