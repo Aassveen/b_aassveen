@@ -38,7 +38,17 @@ Microsoft Purview bruker SITs i flere sikkerhets- og samsvarsfunksjoner:
 2. **Sensitivity Labels**: For å klassifisere og beskytte dokumenter og e-poster basert på sensitiviteten av innholdet.
 3. **Retention Labels**: For å administrere hvor lenge data skal beholdes før de slettes.
 4. **Insider Risk Management**: For å oppdage og håndtere risikoer som kommer fra interne brukere.
-5. **Communication Compliance**: For å overvåke og sikre at kommunikasjon overholder organisasjonens retningslinjer¹.
+5. **Communication Compliance**: For å overvåke og sikre at kommunikasjon overholder organisasjonens retningslinjer.
+
+   Eksempel på bruks av SIT (Norsk personnummer) inn i en DLP regel. Denne regelen reagerer på bruk av Norske personnummer på disse plasseringene:
+![image](https://github.com/user-attachments/assets/750dfc5f-0a84-48df-927e-3e9b8f2edb68)
+![image](https://github.com/user-attachments/assets/f125f92d-39a0-4093-bb83-93e686f7e6d2)
+
+** DLP policyen sender et varsel til sluttbruker om at du nå behandler informasjon som inneholder personnummer.
+![image](https://github.com/user-attachments/assets/ff22a59d-3bb7-4d77-8515-cd0fc58a5eae)
+
+
+
 
 ### Opprettelse av egendefinerte SITs
 
