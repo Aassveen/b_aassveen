@@ -54,4 +54,8 @@ Microsoft Purview bruker SITs i flere sikkerhets- og samsvarsfunksjoner:
 
 Hvis de forhåndskonfigurerte SITs ikke dekker dine behov, kan du opprette egendefinerte SITs. Dette kan gjøres ved å definere nye mønstre eller ved å kopiere og tilpasse eksisterende SITs. Dette gir organisasjoner fleksibiliteten til å tilpasse sikkerhets- og samsvarsstrategier til deres spesifikke krav.
 
+**Her er et eksempel på en nøkkelordsliste.**
+![image](https://github.com/user-attachments/assets/fa6be162-2c19-4b5e-b896-6a362a73c667)
+
+
 `Bjørnar & AI`
