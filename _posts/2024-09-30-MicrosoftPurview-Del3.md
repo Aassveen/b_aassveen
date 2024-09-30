@@ -59,4 +59,6 @@ Hvis de forhåndskonfigurerte SITs ikke dekker dine behov, kan du opprette egend
 ![image](https://github.com/user-attachments/assets/fa6be162-2c19-4b5e-b896-6a362a73c667)
 
 
+**Nøkkelen for å lykkes med SITs er å kjenne organisasjonen, sjargong og interne forhold for å få finjustert informasjonstypene man ønsker å røyke ut.**  🥸🏷️
+
 `Bjørnar & AI`
