@@ -18,7 +18,7 @@ tags:
 ### Hva er Sensitive Information Types (SITs)?
 
 Sensitive Information Types (SITs) er mønsterbaserte klassifikatorer som brukes til å identifisere og beskytte sensitiv informasjon i organisasjonens data. Eksempler på sensitiv informasjon inkluderer personnummer, kredittkortnummer, bankkontonummer og andre typer opplysninger. I Microsoft Purview får du en hel del forhåndsdefinerte SITs du kan velge å bruke som de er, kopiere og/eller tilpasse.
-Her et eksempel på Norsk persnonnummer.
+Her et eksempel på Norsk personnnummer.
 ![image](https://github.com/user-attachments/assets/37d7355d-d548-4269-86a1-35fd657a2b3a)
 ![image](https://github.com/user-attachments/assets/abca47d3-d2fd-4c27-b3f3-f22e06ad9e77)
 
