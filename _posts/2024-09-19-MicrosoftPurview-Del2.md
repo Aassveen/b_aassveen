@@ -44,7 +44,11 @@ Her er noen av hovedfunksjonene til Content Explorer:
 * Content Explorer viser også hvor disse datatypene er plassert, og du kan til og med bore ned til filen eller e-postmeldingen som inneholder den. 
 * Du kan bruke Content Explorer til å forbedre ytelsen til egendefinerte trenbare klassifiseringer ved å gi dem mer tilbakemelding. 
 
+**Her ved søk på en SIT (sensitiv information type)**
 ![image](https://github.com/user-attachments/assets/00109f1d-b16a-4c57-877a-b0c80ea8f79f)
+**Her ved søk på en sensitivitets etikett**
+![image](https://github.com/user-attachments/assets/648373af-00c1-4781-98d3-6e69cf89d94c)
+
 
 
 **Tilgang til Content Explorer er sterkt begrenset fordi det lar deg lese innholdet i skannede filer. Det er to roller som gir tilgang til Content Explorer, og det gis ved hjelp av Microsoft Purview compliance portal:**
