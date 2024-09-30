@@ -33,7 +33,8 @@ La oss si at det er en juridisk sak som involverer en ansatt i organisasjonen di
 * Gjennomgå resultatene: Når søket er fullført, kan du forhåndsvise resultatene direkte i portalen. Du kan også eksportere resultatene for videre analyse. 
 * Opprett en sakbeholdning: Hvis du finner relevant informasjon, kan du opprette en sakbeholdning for å bevare innholdet i en bestemt tidsperiode. Dette sikrer at dataene ikke blir slettet eller endret mens saken pågår. 
 
- 
+ ![image](https://github.com/user-attachments/assets/ccac9cd0-7a4c-4f34-a8ca-90f2cf7bffb0)
+
 
  
 ***Content Explorer***
