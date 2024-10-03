@@ -16,7 +16,7 @@ tags:
 **I denne bloggposten dykker vi ned i hvordan man kan definere og anvende DLP-policyer som identifiserer, overvåker og automatisk beskytter sensitive data.**
 
 ### Hva er Data Loss Prevention (DLP) og hvordan kan det brukes?
-I dagens digitale verden er beskyttelse av sensitiv informasjon avgjørende for enhver organisasjon. Data Loss Prevention (DLP) hjelper bedrifter med å forhindre at sensitiv informasjon blir delt med uautoriserte personer. Microsoft Purview tilbyr en omfattende DLP-løsning som integrerer med flere Microsoft 365-tjenester som Teams, Exchange, SharePoint og OneDrive, samt Office-applikasjoner som Word, Excel og PowerPoint1.
+I dagens digitale verden er beskyttelse av sensitiv informasjon avgjørende for enhver organisasjon. Data Loss Prevention (DLP) hjelper bedrifter med å forhindre at sensitiv informasjon blir delt med uautoriserte personer. Microsoft Purview tilbyr en omfattende DLP-løsning som integrerer med flere Microsoft 365-tjenester som Teams, Exchange, SharePoint og OneDrive, samt Office-applikasjoner som Word, Excel og PowerPoint.
 
 ### Hvordan fungerer DLP?
 DLP i Microsoft Purview fungerer ved å definere og anvende DLP-policyer som identifiserer, overvåker og automatisk beskytter sensitive data. Dette oppnås gjennom dyp innholdsanalyse, inkludert nøkkelord, regulære uttrykk, og maskinlæringsalgoritmer. La oss se nærmere på noen av de viktigste funksjonene i DLP:
