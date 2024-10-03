@@ -30,7 +30,7 @@ DLP i Microsoft Purview fungerer ved å definere og anvende DLP-policyer som ide
 
    
 ### Konkret eksempel på DLP i aksjon
-**Deling av sensitive informasjonstyper:** Ved å opprette en SIT (Sensitiv information type) som beskrevet i tidligere post [Sensitive informasjonstyper](https://aassveen.com/blog/MicrosoftPurview-Del3/) kan man bruke denne videre inn i en DLP regel. I eksempelet under har jeg opprettet en SIT som lytter på Norske personnummer, denne er satt opp til å blokkere eksterne deling, sende informasjon til en IT-administrator og gi brukeren et tips om at nå gjør du noe du ikke skal gjøre. DLP regelen treffer både på E-post og i Teams kanaler og meldinger.
+**Deling av sensitive informasjonstyper:** Ved å opprette en SIT (Sensitiv information type) som beskrevet i tidligere post [Sensitive informasjonstyper](https://aassveen.com/blog/MicrosoftPurview-Del3/), kan man bruke denne videre inn i en DLP regel. I eksempelet under har jeg opprettet en SIT som lytter på Norske personnummer, denne er satt opp til å blokkere eksterne deling, sende informasjon til en IT-administrator og gi brukeren et tips om at nå gjør du noe du ikke skal gjøre. DLP regelen treffer både på E-post og i Teams kanaler og meldinger.
 ![image](https://github.com/user-attachments/assets/53408c0f-ab6d-4008-aba7-c8e1a42e9749)
 
 
