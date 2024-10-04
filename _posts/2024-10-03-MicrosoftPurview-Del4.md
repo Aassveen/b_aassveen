@@ -25,8 +25,10 @@ DLP i Microsoft Purview fungerer ved å definere og anvende DLP-policyer som ide
 1. **Identifisering av sensitiv informasjon:** DLP-policyer kan oppdage sensitiv informasjon som kredittkortnumre, personnummer og helseopplysninger ved hjelp av avanserte analysemetoder. For eksempel kan en DLP-policy oppdage og beskytte et dokument som inneholder kredittkortinformasjon som er lagret i OneDrive.
 2. **Overvåking og varsling:** Når en DLP-policy oppdager et brudd, kan den automatisk varsle administratorer og brukere. For eksempel, hvis en ansatt prøver å sende en e-post med sensitive data til en ekstern mottaker, kan DLP-policyen blokkere e-posten og varsle både avsenderen og IT-avdelingen.
 3. **Automatisk beskyttelse:** DLP kan automatisk beskytte sensitiv informasjon ved å kryptere data eller begrense tilgang. For eksempel kan en DLP-policy automatisk kryptere et dokument som inneholder sensitive data når det lastes opp til SharePoint.
-4. **Rapportering og revisjon:** DLP gir omfattende rapporterings- og revisjonsmuligheter som hjelper organisasjoner med å spore og analysere hendelser. Dette gjør det mulig å identifisere mønstre og forbedre sikkerhetstiltakene over tid. Dette gjøres ved å kjøre policyene i simuleringsmodus.
+4. **Rapportering og revisjon:** DLP gir omfattende rapporterings- og revisjonsmuligheter som hjelper organisasjoner med å spore og analysere hendelser. Dette gjør det mulig å identifisere mønstre og forbedre sikkerhetstiltakene over tid. Dette gjøres ved å kjøre policyene i simuleringsmodus. Eller ved å se på aktivitetssporing i PurvView.
 ![image](https://github.com/user-attachments/assets/625a0e08-fe63-4a7b-bbb8-551c0b5284b4)
+![image](https://github.com/user-attachments/assets/7330734c-d5d0-495c-beb8-ca6fabd6369e)
+
 
    
 ### Konkret eksempel på DLP i aksjon
