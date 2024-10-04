@@ -27,7 +27,7 @@ DLP i Microsoft Purview fungerer ved å definere og anvende DLP-policyer som ide
 3. **Automatisk beskyttelse:** DLP kan automatisk beskytte sensitiv informasjon ved å kryptere data eller begrense tilgang. For eksempel kan en DLP-policy automatisk kryptere et dokument som inneholder sensitive data når det lastes opp til SharePoint.
 4. **Rapportering og revisjon:** DLP gir omfattende rapporterings- og revisjonsmuligheter som hjelper organisasjoner med å spore og analysere hendelser. Dette gjør det mulig å identifisere mønstre og forbedre sikkerhetstiltakene over tid. Dette gjøres ved å kjøre policyene i simuleringsmodus. Eller ved å se på aktivitetssporing i PurvView.
 ![image](https://github.com/user-attachments/assets/625a0e08-fe63-4a7b-bbb8-551c0b5284b4)
-<br/>
+
 ![image](https://github.com/user-attachments/assets/7330734c-d5d0-495c-beb8-ca6fabd6369e)
 
 
