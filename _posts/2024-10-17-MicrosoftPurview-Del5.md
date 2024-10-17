@@ -1,5 +1,5 @@
 ---
-title:  "Levetidsregler 📦️"
+title:  "Microsoft Purview del 5: Levetidsregler 💾"
 date:   2024-10-17
 classes: wide
 toc: false
