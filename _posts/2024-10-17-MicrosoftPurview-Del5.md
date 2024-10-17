@@ -55,4 +55,4 @@ Eier av Teamet mottar varsel om fornyelse. Når Teameiere (Her anbefales *minimu
 * **Fornyelse:** Teameiere kan fornye teamet ved å velge “Forny nå” i teaminnstillingene. Hvis teamet ikke fornyes og det ikke er noen aktivitet, vil teamet bli satt i en “myk-slettet” tilstand, som betyr at det kan gjenopprettes innen 30 dager.
 * **Automatisk fornyelse:** Hvis et team har minst ett kanalbesøk fra et medlem før utløpsdatoen, vil det automatisk bli fornyet uten manuell inngripen.
 
-
+`Bjørnar & AI`
