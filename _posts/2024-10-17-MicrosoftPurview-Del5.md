@@ -51,8 +51,8 @@ Eier av Teamet mottar varsel om fornyelse *30, 15 og 1 dag før Teamets utløpsd
 ![image](https://github.com/user-attachments/assets/93f97331-acae-4f56-bd05-07b9cfafd3a6)
 
 #### Utløpspolicy (Expiration Policy)
-**Automatisk opprydding:** Microsoft 365-gruppeutløpspolicyen kan automatisk rydde opp i ubrukte team. Når en utløpspolicy er satt opp, vil teameiere motta varsler om fornyelse 30 dager, 15 dager og 1 dag før teamets utløpsdato.
-**Fornyelse:** Teameiere kan fornye teamet ved å velge “Forny nå” i teaminnstillingene. Hvis teamet ikke fornyes og det ikke er noen aktivitet, vil teamet bli satt i en “myk-slettet” tilstand, som betyr at det kan gjenopprettes innen 30 dager.
-**Automatisk fornyelse:** Hvis et team har minst ett kanalbesøk fra et medlem før utløpsdatoen, vil det automatisk bli fornyet uten manuell inngripen.
+* **Automatisk opprydding:** Microsoft 365-gruppeutløpspolicyen kan automatisk rydde opp i ubrukte team. Når en utløpspolicy er satt opp, vil teameiere motta varsler om fornyelse 30 dager, 15 dager og 1 dag før teamets utløpsdato.
+* **Fornyelse:** Teameiere kan fornye teamet ved å velge “Forny nå” i teaminnstillingene. Hvis teamet ikke fornyes og det ikke er noen aktivitet, vil teamet bli satt i en “myk-slettet” tilstand, som betyr at det kan gjenopprettes innen 30 dager.
+* **Automatisk fornyelse:** Hvis et team har minst ett kanalbesøk fra et medlem før utløpsdatoen, vil det automatisk bli fornyet uten manuell inngripen.
 
 
