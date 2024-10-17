@@ -35,6 +35,7 @@ Levetidsregler i Microsoft Purview er en sentral komponent i DLM. Disse reglene 
 
 Et eksempel på en levetidsregel (som er veldig aktuell i disse dager, se tidligere bloggpost: [Viva Engage](https://aassveen.com/blog/VivaEngage/). ) 
 Skjermbildet kan være litt forvirrende da Yammer navnet enda henger igjen flere steder hos Microsoft, men denne regelen treffer altså Viva Engage poster og kommentarer som ikke er *editert siste 5 år*.
+
 ![image](https://github.com/user-attachments/assets/a42335fb-a183-4bf6-abbc-66f3d6d2df83)
 
 
