@@ -47,7 +47,7 @@ Implementering av levetidsregler i Microsoft Purview gir flere fordeler:
 
 ### Nice to know
 Levetidsregler fokuserer på data og innhold. For eksempel i et Team i Teams kan du sette levetid på kanalsamtaler og innhold men ikke på selve teamet. Om du ønsker å automatisere sletting av Team i Teams som ikke er aktive gjøres dette ved å sette utløpspolicy på Microsoft 365 grupper. 
-Eier av Teamet mottar varsel om fornyelse *30, 15 og 1 dag før Teamets utløpsdato*. Når Teameiere (Her anbefales *minimum 2 Team eiere pr. Team*) mottar varselet, kan de velge "forny nå" i teaminnstillingene for å fornye teamet. Om Teamet ikke har en eller flere eiere kan man sette opp en e-post adresse som får disse varslene.
+Eier av Teamet mottar varsel om fornyelse. Når Teameiere (Her anbefales *minimum 2 Team eiere pr. Team*) mottar varselet, kan de velge "forny nå" i teaminnstillingene for å fornye teamet. Om Teamet ikke har en eller flere eiere kan man sette opp en e-post adresse som får disse varslene.
 ![image](https://github.com/user-attachments/assets/93f97331-acae-4f56-bd05-07b9cfafd3a6)
 
 #### Utløpspolicy (Expiration Policy)
