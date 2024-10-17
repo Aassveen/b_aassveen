@@ -55,4 +55,9 @@ Eier av Teamet mottar varsel om fornyelse. Når Teameiere (Her anbefales *minimu
 * **Fornyelse:** Teameiere kan fornye teamet ved å velge “Forny nå” i teaminnstillingene. Hvis teamet ikke fornyes og det ikke er noen aktivitet, vil teamet bli satt i en “myk-slettet” tilstand, som betyr at det kan gjenopprettes innen 30 dager.
 * **Automatisk fornyelse:** Hvis et team har minst ett kanalbesøk fra et medlem før utløpsdatoen, vil det automatisk bli fornyet uten manuell inngripen.
 
+### DLM i Microsoft Purview består av mange elementer, hovedelementene utover levetidsregler er:
+* **Adaptiv og statisk omfang:** Policyer kan være adaptive, som tilpasser seg endringer i organisasjonen, eller statiske, som er faste.
+* **Hendelsesbasert oppbevaring:** Oppbevaring kan utløses av spesifikke hendelser, som avslutning av et prosjekt eller når en person sier opp i organisasjonen.
+* **Gjennomgang og godkjenning:** Prosess for å gjennomgå og godkjenne sletting av innhold etter at oppbevaringsperioden er utløpt.
+
 `Bjørnar & AI`
