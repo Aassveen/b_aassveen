@@ -21,17 +21,17 @@ Data Lifecycle Management (DLM) er en strategi for å administrere data fra det 
 
 ### Introduksjon til Levetidsregler
 Levetidsregler i Microsoft Purview er en sentral komponent i DLM. Disse reglene lar deg automatisere håndteringen av data basert på deres alder, type og andre kriterier. Ved å bruke levetidsregler kan du:
-**Automatisere dataarkivering:** Flytt eldre data til arkivlagring for å redusere kostnader og frigjøre plass.
-**Slette utdaterte data:** Fjern data som ikke lenger er nødvendige for å redusere risikoen for datalekkasjer og overholdelse av regelverk.
-**Beholde viktige data:** Sikre at kritiske data oppbevares i henhold til juridiske og forretningsmessige krav.
+* **Automatisere dataarkivering:** Flytt eldre data til arkivlagring for å redusere kostnader og frigjøre plass.
+* **Slette utdaterte data:** Fjern data som ikke lenger er nødvendige for å redusere risikoen for datalekkasjer og overholdelse av regelverk.
+* **Beholde viktige data:** Sikre at kritiske data oppbevares i henhold til juridiske og forretningsmessige krav.
 
 ### Hvordan Opprette Levetidsregler i Microsoft Purview
 Å opprette levetidsregler i Microsoft Purview er en enkel prosess. Her er en trinnvis guide:
-**Naviger til Data Lifecycle Management:** Gå til Microsoft Purview-portalen og velg “Data Lifecycle Management” fra menyen.
-**Opprett en ny regel:** Klikk på “Opprett regel” og velg hvilke dataregler du vil bruke (f.eks. arkivering, sletting).
-**Definer kriterier:** Angi kriteriene for regelen, som datotype, alder og andre relevante parametere.
-**Konfigurer handlinger:** Velg hvilke handlinger som skal utføres når kriteriene er oppfylt, som å flytte data til arkivlagring eller slette dem.
-**Aktiver regelen:** Lagre og aktiver regelen for å begynne å administrere dataene dine automatisk.
+* **Naviger til Data Lifecycle Management:** Gå til Microsoft Purview-portalen og velg “Data Lifecycle Management” fra menyen.
+* **Opprett en ny regel:** Klikk på “Policies” og velg "Retention Policies".
+* **Definer kriterier:** Angi kriteriene for regelen, som datotype, alder og andre relevante parametere.
+* **Konfigurer handlinger:** Velg hvilke handlinger som skal utføres når kriteriene er oppfylt, som å flytte data til arkivlagring eller slette dem.
+* **Aktiver regelen:** Lagre og aktiver regelen for å begynne å administrere dataene dine automatisk.
 
 Et eksempel på en levetidsregel (som er veldig aktuell i disse dager, se tidligere bloggpost: [Viva Engage](https://aassveen.com/blog/VivaEngage/). ) 
 Skjermbildet kan være litt forvirrende da Yammer navnet enda henger igjen flere steder hos Microsoft, men denne regelen treffer altså Viva Engage poster og kommentarer som ikke er *editert siste 5 år*.
