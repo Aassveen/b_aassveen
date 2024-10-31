@@ -51,6 +51,13 @@ Denne snutten oppretter en policy som beholder Auditposter for Exchange og Share
 
 
 *Audit søk*
+Audit søk er en kraftig søkemotor på tvers av alle Audit logger i Microsoft 365. Her kan man fingranulere søk basert på applikasjon, sites, workloads, brukere etc. 
+![image](https://github.com/user-attachments/assets/bfdf5854-1406-4bec-8934-564f9be4d620)
+
+Eksempelet under viser et bredt søk på bruker, her kan man eks. se alle "log in" aktiviteter på tvers. 
+
+![image](https://github.com/user-attachments/assets/dce3d42c-d949-4835-89b8-0a76c49b5d38)
+
 
 
 `Bjørnar & AI`
