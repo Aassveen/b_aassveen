@@ -37,6 +37,7 @@ Audit søk og Audit policyer kan som det meste annet i Microsoft settes opp og s
 
 
 **GUI** 
+
 ![image](https://github.com/user-attachments/assets/64903c42-eb1d-4c58-b04a-5cf7e1798028)
 
 
