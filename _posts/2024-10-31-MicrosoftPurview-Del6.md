@@ -47,7 +47,7 @@ Audit søk og Audit policyer kan som det meste annet i Microsoft settes opp og s
 
 `New-UnifiedAuditLogRetentionPolicy -Priority "2" -Name  "TheUsualSuspectsAgain" -Description "Policy for spesielle brukere" -UserIds "Bjornar.Aassveen@innivarmen.onmicrosoft.com" -RecordTypes "ExchangeItem, SharePoint" -RetentionDuration "FiveYears" `
 
-Denne snutten oppretter en policy som beholder Auditposter for Exchange og SharePoint for brukeren i 5 år på lik linje som GUI oppsettet vist over. 
+Denne snutten oppretter en policy som beholder Auditposter for Exchange og SharePoint for brukeren i 5 år på lik linje som GUI oppsettet vist over. NB! UnifiedAuditLog ligger som endel av ExchangeOnline PS modulen men du må koble til mot IPPSSession som er endel av Security & Compliance.
 
 
 *Audit søk*
