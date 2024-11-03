@@ -60,6 +60,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-multiple-languages-plugin
 
 author:
   name   : "Bjørnar Aassveen"
