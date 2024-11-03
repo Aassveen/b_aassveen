@@ -16,7 +16,7 @@ tags:
 ***What is Viva Amplify and how can it be used?***
 * Microsoft Viva Amplify is part of Microsoft Viva, a platform designed to improve the employee experience. Viva Amplify has been specially developed to help organizations manage and streamline internal communication. By using Viva Amplify, companies can create, publish and analyze campaigns that inform and engage employees in a more structured and targeted way.
 
-**Hvordan fungerer Viva Amplify?**
+**How does Viva Amplify work??**
 * Viva Amplify provides a centralized platform where you can create and manage campaigns. These campaigns can include different types of communication such as email, SharePoint posts and Teams messages. Here are some of the main features:
 * **Campaign Management**: Plan and orchestrate communications around specific objectives, such as product launches, charity events or training programs.
 * **Multiple Channels**: Publish messages through multiple channels such as SharePoint, Outlook and Teams to reach the entire organization.
@@ -30,6 +30,7 @@ tags:
 
 
 **Viva Amplify** will soon come with support for Viva engage posts too 😎
+
 ![image](https://github.com/user-attachments/assets/d01bbc0f-07bf-467c-83b0-7303e2b9ab7e)
 
 
