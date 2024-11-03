@@ -9,6 +9,7 @@ tags:
   - Purview
   - Data
   - Informasjonsforvaltning
+  - Informasjonsbeskyttelse
 ---
 ***Microsoft Purview del 1: Dette er del 1 av flere deler som omhandler Microsoft Purview og hvilke verktøy man har tilgjengelig der.***
 
