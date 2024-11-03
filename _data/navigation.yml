@@ -4,13 +4,3 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-
-languages: 
-- language: "en" links: 
-- title: "About" url: /about/ 
-- title: "Posts" url: /posts/
-
-
-- language: "nb-NO" links: 
-- title: "Poster" url: /posts/ 
-- title: "Om" url: /about/ 
