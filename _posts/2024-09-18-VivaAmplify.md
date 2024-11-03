@@ -1,6 +1,6 @@
 ---
 title:  "Viva Amplify✏️"
-lang: no
+lang: en
 date:   2024-09-18
 classes: wide
 toc: false
