@@ -45,7 +45,9 @@ I neste steg definerer jeg triggere for policyen før jeg setter terskler. Her k
 ![image](https://github.com/user-attachments/assets/d7ac371f-8896-4541-bf8d-9bc89d8731d8)
 ![image](https://github.com/user-attachments/assets/80cd88ba-b70d-47b6-ae27-e60219a34dd9)
 
+
 Oppsummert vil da policyen se sånn ut
+
 ![image](https://github.com/user-attachments/assets/e1b0a3db-d461-406d-b524-6182afced1e9)
 
 
