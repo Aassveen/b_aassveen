@@ -59,7 +59,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
+  # - jekyll-include-cache
 
 author:
   name   : "Bjørnar Aassveen"
