@@ -41,6 +41,7 @@ Etter å ha definert hvilke sensitivitets etiketter og sensitive informasjonstyp
 ![image](https://github.com/user-attachments/assets/318de0f3-1afb-4a7a-9e30-96fa1a32fefc)
 
 I neste steg definerer jeg triggere for policyen før jeg setter terskler. Her kan man velge å bruke Microsoft standard terskler eller definere disse selv.
+
 ![image](https://github.com/user-attachments/assets/d7ac371f-8896-4541-bf8d-9bc89d8731d8)
 ![image](https://github.com/user-attachments/assets/80cd88ba-b70d-47b6-ae27-e60219a34dd9)
 
