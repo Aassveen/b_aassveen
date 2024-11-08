@@ -59,7 +59,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  # - jekyll-include-cache
+  - jekyll-include-cache
 
 author:
   name   : "Bjørnar Aassveen"
@@ -117,8 +117,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-  lang: nb-NO	 
-languages: ["en", "nb-NO	"] 
-permalink: /:categories/:year/:month/:day/:title/
