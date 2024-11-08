@@ -50,10 +50,9 @@ Oppsummert vil da policyen se sånn ut
 
 ![image](https://github.com/user-attachments/assets/e1b0a3db-d461-406d-b524-6182afced1e9)
 
+## Konklusjon
+*Selv om Microsoft Purview Insider Risk Management tilbyr kraftige verktøy for å håndtere interne risikoer, må norske organisasjoner nøye vurdere hvordan de implementerer disse verktøyene for å sikre at de overholder personvernlover og opprettholder et tillitsfullt arbeidsmiljø. Det er viktig å balansere behovet for sikkerhet med respekten for ansattes personvern.*
 
 
+`Bjørnar & AI`
 
-. 
-Håndtering av IP-tyveri: En ansatt som har sagt opp jobben, forsøker å sende konfidensielle dokumenter til sin personlige e-post. Systemet fanger opp denne aktiviteten og varsler sikkerhetsteamet, som kan iverksette nødvendige tiltak4.
-Overvåking av uvanlige aktiviteter: Gjennom analyse av brukeraktiviteter, oppdager Insider Risk Management at en ansatt har fått tilgang til flere sensitive dokumenter utenfor arbeidstid. Dette utløser en undersøkelse for å sikre at det ikke er noen sikkerhetsbrudd2.
-Håper dette utkastet hjelper deg med å komme i gang! Er det noe annet du vil legge til eller justere?
