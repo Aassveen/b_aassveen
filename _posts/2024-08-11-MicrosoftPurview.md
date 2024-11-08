@@ -14,5 +14,8 @@
 * **Microsoft Purview Audit**: Gir revisjonsspor for å spore aktiviteter og hendelser - [Audit 👀](https://aassveen.com/blog/2024/10/31/MicrosoftPurview-Del6/) 
 * **Microsoft Purview Communication Compliance**: Overvåker og håndhever samsvar med kommunikasjonsregler.
 * **Microsoft Purview Compliance Manager**: Hjelper med å administrere samsvarsrisikoer og oppfylle regulatoriske krav.
-* **Microsoft Purview Data Lifecycle Management**: Administrerer data gjennom hele livssyklusen. [Effektive verktøy for moderne datastyring🔓](https://aassveen.com/blog/2024/09/19/MicrosoftPurview-Del2/)  & [Levetidsregler 💾](https://aassveen.com/blog/2024/10/17/MicrosoftPurview-Del5/)
-* **Microsoft Purview eDiscovery**: Hjelper med å finne og forberede data for juridiske saker.
+* **Microsoft Purview Data Lifecycle Management**: Administrerer data gjennom hele livssyklusen [Levetidsregler 💾](https://aassveen.com/blog/2024/10/17/MicrosoftPurview-Del5/)
+* **Microsoft Purview eDiscovery**: Hjelper med å finne og forberede data for juridiske saker. [Effektive verktøy for moderne datastyring🔓](https://aassveen.com/blog/2024/09/19/MicrosoftPurview-Del2/)
+
+
+
