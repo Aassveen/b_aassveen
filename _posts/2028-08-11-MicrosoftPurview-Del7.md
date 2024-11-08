@@ -14,17 +14,18 @@ tags:
 ***Microsoft Purview del 7: Dette er del 7 av flere deler som omhandler Microsoft Purview og hvilke verktøy man har tilgjengelig der.***
 
 ## Hva er Insider Risk Management?
-Microsoft Purview Insider Risk Management er en løsning designet for å hjelpe organisasjoner med å identifisere, undersøke og håndtere interne risikoer. Disse risikoene kan inkludere både utilsiktede og ondsinnede handlinger fra ansatte som kan føre til datalekkasjer, tyveri av immaterielle rettigheter (IP), og andre sikkerhetsbrudd1.
+Microsoft Purview Insider Risk Management er en løsning designet for å hjelpe organisasjoner med å identifisere, undersøke og håndtere interne risikoer. Disse risikoene kan inkludere både utilsiktede og ondsinnede handlinger fra ansatte som kan føre til datalekkasjer, tyveri av immaterielle rettigheter (IP), og andre sikkerhetsbrudd.
 
 ## Hvilke funksjoner finnes i modulen?
 Insider Risk Management tilbyr en rekke funksjoner for å håndtere interne risikoer:
 * **Insider Risk policy**: Opprettelse av tilpassede policyer basert på forhåndsdefinerte maler for å overvåke spesifikke risikoer som datalekkasjer og sikkerhetsbrudd
-* **Analytics and Insights**: Bruk av avansert analyse og maskinlæring for å identifisere potensielle risikoer og gi innsikt i brukeraktiviteter1.
-Alerting and Case Management: Generering av varsler og administrasjon av saker for å undersøke og håndtere risikoer effektivt2.
-User Activity Reports: Detaljerte rapporter om brukeraktiviteter for å identifisere og undersøke mistenkelige handlinger2.
-Privacy Controls: Innebygde personvernkontroller som pseudonymisering av brukere og rollebasert tilgang for å beskytte brukerens personvern1.
-Hvilke rettigheter og lisenser trengs?
-For å bruke Microsoft Purview Insider Risk Management, trenger organisasjonen en Microsoft 365 Enterprise E5-lisens eller en tilsvarende lisens som inkluderer E5 Compliance3. Administratorer må også tildele riktige tillatelser til brukere som skal administrere og bruke Insider Risk Management-funksjonene3.
+* **Analytics and Insights**: Bruk av avansert analyse og maskinlæring for å identifisere potensielle risikoer og gi innsikt i brukeraktiviteter.
+Alerting and Case Management: Generering av varsler og administrasjon av saker for å undersøke og håndtere risikoer effektivt.
+User Activity Reports: Detaljerte rapporter om brukeraktiviteter for å identifisere og undersøke mistenkelige handlinger.
+Privacy Controls: Innebygde personvernkontroller som pseudonymisering av brukere og rollebasert tilgang for å beskytte brukerens personvern.
+
+## Hvilke lisenser trengs?
+**For å bruke Microsoft Purview Insider Risk Management, trenger organisasjonen en Microsoft 365 E5-lisens eller en tilsvarende lisens som inkluderer E5 Compliance. 
 
 ## Konkrete eksempler på bruk
 * **Forebygging av datalekkasjer**: I eksempelet vist under har jeg opprettet en datalekkasje policy basert på en mal ("Data leaks")
