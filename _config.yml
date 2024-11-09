@@ -13,6 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-5GZXBMP1R7"
+    anonymize_ip: false # default
+
 title: aassveen.com | Tåkeheimen
 email: bjornar@aassveen.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -84,14 +91,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/aassveen"
-	  
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-5GZXBMP1R7"
-    anonymize_ip: false # default
-	  
-
+	  	  
 defaults:
   # _posts
   - scope:
